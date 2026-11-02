@@ -1,0 +1,9 @@
+{
+  "name": "lector",
+  "version": "0.1.0",
+  "description": "Lee en voz alta la respuesta de Claude con un panel de controles: pausa, seguir, atrasar y adelantar unos 10 segundos, y velocidad.",
+  "author": { "name": "yesicaalfaro95-ship-it" },
+  "repository": "https://github.com/yesicaalfaro95-ship-it/claude-lector",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

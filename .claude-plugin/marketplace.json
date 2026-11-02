@@ -1,0 +1,6 @@
+{
+  "name": "claude-lector",
+  "description": "Lector en voz alta para Claude Code en Windows: pausa, saltos de unos 10 s, velocidad y marca en el chat.",
+  "owner": { "name": "yesicaalfaro95-ship-it" },
+  "plugins": [{ "name": "lector", "source": "./" }]
+}
